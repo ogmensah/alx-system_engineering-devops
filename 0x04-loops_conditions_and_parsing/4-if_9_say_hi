@@ -4,12 +4,12 @@
 n=0
 while ((n < 10))
 do
+	echo "Best School"
 	((n++))
 	if ((n == 9))
 	then
 		echo "Hi"
 		continue
 	fi
-	echo "Best School"
 done
 
