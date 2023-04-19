@@ -1,0 +1,3 @@
+It is humanly difficult to keep long list of numbers made up of a lot of digits separated by full-stops ".". The DNS servers ease this by matching names to IP addresses so that when a use types the domain name into a web browser the DNS server fetches the IP address so the web browser can load the internet resource. NS servers eliminate the need for humans to memorize IP addresses such as 192.168.1.1 (in IPv4), or more complex newer alphanumeric IP addresses such as 2400:cb00:2048:1::c629:d7a2 (in IPv6).
+
+The TCP/IP which stands for Transmission Protocol/Internet Protocol and is a suite of communication protocols used to interconnect network devices on the internet or private network like the intranet or extranet.
